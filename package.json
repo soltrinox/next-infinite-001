@@ -1,0 +1,19 @@
+{
+  "name": "next-js-infinite-scroll",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-infinite-scroll-component": "6.1.0"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": "Infinite scrolling in next js"
+}
